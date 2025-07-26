@@ -10,7 +10,6 @@ import pdfplumber
 import spacy                     # NEW – lightweight, no torch backend
 from scipy.spatial.distance import cdist  # handy for cosine similarity
 import networkx as nx
-from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.cluster import KMeans
