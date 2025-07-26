@@ -7,7 +7,6 @@ pdfplumber
 
 # NLP / embeddings (CPU‑only)
 spacy
-en-core-web-md   # 120 MB GloVe vectors
 
 # ML helpers
 scikit-learn
