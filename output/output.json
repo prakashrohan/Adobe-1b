@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-26T20:35:20.919760"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Consider Packing Thermal Underwear For Extra Warmth.: Pack Nice Dress and Plan Hiking Outdoor Activities",
+            "importance_rank": 1,
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "section_title": "Oldest City France Strategic: Mediterranean Region Variety Exhibits and Narrow Streets Colorful Buildings",
+            "importance_rank": 2,
+            "page_number": 3
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "The Beautiful Setting And All-Inclusive Amenities Make It A Hassle-Free Vacation Spot.: Service Ensure Comfortable Stay and Offering Spacious Rooms Beautiful",
+            "importance_rank": 3,
+            "page_number": 9
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "section_title": "Culinary Delights The South Of France Is A Food Lover'S Paradise.: • Languedoc: Discover Diverse Wines, Including and Region Bordeaux Day Trip",
+            "importance_rank": 4,
+            "page_number": 5
+        },
+        {
+            "document": "South of France - History.pdf",
+            "section_title": "Located Just Outside City: Important Stop Pilgrimage Route and Monuments City Important Roman",
+            "importance_rank": 5,
+            "page_number": 8
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "• Additional Tips: Consider packing a travel-sized perfume or cologne to freshen up on\n the go. • Additional Tips: Pack a few statement pieces that can be dressed up or down, such as\n a versatile dress or a pair of stylish shoes. • Makeup: Pack essentials in a travel-sized makeup bag. • Additional Tips: Winter is mild compared to other regions, but it's still important to\n pack warm clothing for cooler evenings. Consider packing thermal underwear for\n extra warmth. Packing for Adults \n \n Clothing \n \n • Casual Wear: Comfortable clothes for sightseeing and casual dining, like jeans, t \n shirts, and casual dresses. • Accessories: A stylish yet functional bag, a lightweight scarf, and a versatile jacket.",
+            "page_number": 4
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "Marseille: The Oldest City in France \n \n History \n \n Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Key Attractions \n \n • Old Port (Vieux-Port): The heart of Marseille, the Old Port has been a bustling harbor\n for over 2,600 years. • Fish Market at the Old Port: Visit the fish market at the Old Port to experience the\n \n local seafood culture. The city's\n rich cultural heritage is reflected in its diverse architecture and vibrant atmosphere. Its strategic\n location on the Mediterranean coast made it a vital trading port throughout history. Cultural Highlights \n \n Marseille is known for its vibrant arts scene, with numerous galleries, theaters, and music\n venues. The city hosts several festivals throughout the year, including the Festival de\n Marseille, which celebrates contemporary dance, theater, and music.",
+            "page_number": 3
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "• Hôtel Martinez (Cannes): A luxurious family-friendly hotel offering spacious rooms,\n beautiful gardens, and a variety of activities for children. • Hôtel de Paris (Monaco): A luxurious family-friendly hotel offering spacious rooms,\n beautiful gardens, and a variety of activities for children. • Hôtel Le Negresco (Nice): A luxurious family-friendly hotel offering spacious rooms,\n beautiful gardens, and a variety of activities for children. • Hôtel Barrière Le Majestic (Cannes): A luxurious family-friendly hotel offering spacious\n \n rooms, beautiful gardens, and a variety of activities for children. • Hôtel du Cap-Eden-Roc (Antibes): A luxurious family-friendly hotel offering spacious\n rooms, beautiful gardens, and a variety of activities for children. • Le Mas de Pierre (Saint-Paul-de-Vence): A luxurious family-friendly hotel offering\n \n spacious rooms, beautiful gardens, and a variety of activities for children. • Hôtel Royal Riviera (Saint-Jean-Cap-Ferrat): A luxurious family-friendly hotel offering\n \n spacious rooms, beautiful gardens, and a variety of activities for children.",
+            "page_number": 9
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "Here are some activities to indulge in the\n region's culinary delights: \n \n Wine Tasting \n \n • Provence: Explore vineyards known for their rosé wines. Cooking Classes \n \n • Provence: Learn to prepare traditional dishes like ratatouille and bouillabaisse. • Marseille: Participate in a seafood cooking class to make dishes like bouillabaisse. • Gaillac: Discover the unique wines of this lesser-known region. • Lyon: Discover the secrets of Lyonnaise cuisine with a hands-on cooking class. • Châteauneuf-du-Pape: Visit this famous wine region near Avignon. • Nice: Take a class to master Niçoise cuisine, including dishes like salade niçoise and\n socca.",
+            "page_number": 5
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "Key Historical Sites in Arles \n \n • Arles Amphitheatre: This Roman amphitheater, built in the 1st century AD, is still used\n for events such as bullfights and concerts. • Thermes de Constantin: These Roman baths, built in the 4th century AD, are a\n testament to the city's importance during the Roman period. Arles: A Roman Treasure \n \n Arles, located on the banks of the Rhône River, is renowned for its Roman and Romanesque\n monuments. The Van Gogh\n Foundation in Arles celebrates his legacy. The city was an important Roman settlement and later became a center of\n Christian pilgrimage. • Van Gogh's Influence: Arles is also famous for its association with Vincent van Gogh,\n who created over 300 works of art during his time in the city. Trophime: This Romanesque church, built in the 12th century, is known\n for its stunning portal and cloister.",
+            "page_number": 8
+        }
+    ]
+}
