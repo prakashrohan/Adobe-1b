@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-27T07:09:15.658817"
+    },
+    "extracted_sections": [
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "• Place The Cheese On Top Of The Egg To Melt.: Muffin Split Toasted Large and Melt Assemble Sandwich Egg",
+            "importance_rank": 1,
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "section_title": "• Place Onion And Garlic In A Slow Cooker, Then Add Pork.: Pork Cook Low Hours and Needed Season Chicken Salt",
+            "importance_rank": 2,
+            "page_number": 8
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "section_title": "• In A Skillet, Melt Butter Over Medium Heat.: • Add Minced Garlic And Sauté and • Cook Fettuccine According To Package",
+            "importance_rank": 3,
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": "Large Eggplants Sliced Cup: Oil Salt Pepper Taste and Layers Remaining Cheese Bake",
+            "importance_rank": 4,
+            "page_number": 10
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "• Season With Salt And Pepper, Then Toss To Combine.: • Drizzle With Olive Oil And and Pita Bread Half Create",
+            "importance_rank": 5,
+            "page_number": 11
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Breakfast Ideas.pdf",
+            "refined_text": "Breakfast Quesadilla \n Ingredients: \n • 1 large flour tortilla \n • 2 large eggs \n • 1/4 cup shredded cheese \n \n • 1/4 cup cooked sausage or bacon \n • 1/4 cup diced bell pepper \n • Salsa for serving \n Instructions: \n • In a bowl, whisk the eggs and cook them in a skillet over medium heat. Breakfast Sandwich \n Ingredients: \n • 1 English muffin, split and toasted \n • 1 large egg \n • 1 slice of cheese \n \n • 1 slice of ham or bacon \n • Salt and pepper to taste \n Instructions: \n • Cook the egg in a skillet over medium heat, seasoning with salt and pepper. • Add cheese, sausage or bacon, and bell pepper to the eggs. • Assemble the sandwich with the egg, cheese, and ham or bacon between the English\n muffin halves. • Place the cheese on top of the egg to melt. • Place the egg mixture on one half of the tortilla and fold the other half over. Chia Pudding \n Ingredients: \n • 1/4 cup chia seeds \n • 1 cup almond milk \n • 1 tablespoon honey or maple syrup \n \n • 1/2 teaspoon vanilla extract \n • Toppings: fresh fruit, nuts, coconut flakes \n Instructions: \n • In a bowl, whisk together chia seeds, almond milk, honey or maple syrup, and vanilla\n extract.",
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Mains_3.pdf",
+            "refined_text": "• 1 cup barbecue sauce \n • 1/2 cup chicken broth \n • 1 tablespoon brown sugar \n • 1 teaspoon smoked paprika \n • Salt and pepper to taste \n • Buns for serving \n \n • Coleslaw for topping (optional) \n Instructions: \n • Season pork shoulder with salt, pepper, and smoked paprika. Stuffed Chicken Breasts \n Ingredients: \n • 4 boneless, skinless chicken breasts \n • 1/2 cup spinach, chopped \n • 1/2 cup feta cheese, crumbled \n \n • 1/4 cup sun-dried tomatoes, chopped \n • 2 cloves garlic, minced \n • 2 tablespoons olive oil \n • Salt and pepper to taste \n Instructions: \n • Preheat oven to 375°F (190°C). • Mix barbecue sauce, chicken broth, and brown sugar, and pour over pork. • Season chicken with salt and pepper. • In a bowl, mix spinach, feta, sun-dried tomatoes, and garlic. • Shred pork with forks and mix with sauce. • Serve on buns with coleslaw if desired.",
+            "page_number": 8
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "refined_text": "Grilled Cheese Sandwich \n Ingredients: \n • 8 slices bread \n • 4 slices cheddar cheese \n \n • 4 slices mozzarella cheese \n • 1/4 cup butter \n Instructions: \n • Preheat a skillet over medium heat. Fish and Chips \n Ingredients: \n • 1 pound white fish fillets (such as cod or haddock) \n \n • 1 cup flour \n • 1 cup beer \n • 1 teaspoon baking powder \n • 1 teaspoon salt \n • 1/2 teaspoon pepper \n • 4 large potatoes, peeled and cut into fries \n • Vegetable oil for frying \n • Lemon wedges for serving \n \n Instructions: \n • In a bowl, mix flour, baking powder, salt, and pepper. • Place a slice of cheddar cheese and a slice of mozzarella cheese between two slices of\n bread, buttered side out. • Dip fish fillets in the batter and fry until golden and crispy. • Serve fish and chips with lemon wedges. • Fry potatoes until golden and crispy. • Butter one side of each slice of bread.",
+            "page_number": 12
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "• 2 large eggplants, sliced \n • 1 cup breadcrumbs \n • 1/2 cup grated Parmesan cheese \n • 1 cup marinara sauce \n • 1 cup mozzarella cheese, shredded \n • 2 eggs, beaten \n \n • 1/2 cup flour \n • 1/4 cup olive oil \n • Salt and pepper to taste \n Instructions: \n • Preheat oven to 375°F (190°C). Fish Tacos \n Ingredients: \n • 1 pound white fish fillets (such as cod or tilapia) \n • 1/2 cup flour \n • 1/2 cup cornmeal \n • 1 teaspoon paprika \n • 1 teaspoon cumin \n \n • 1 teaspoon salt \n • 1/2 teaspoon pepper \n • 1/2 cup buttermilk \n • 1/4 cup vegetable oil \n • Taco shells or tortillas \n • Shredded cabbage, diced tomatoes, sliced avocado, and lime wedges for toppings\n Instructions: \n \n • In a bowl, mix flour, cornmeal, paprika, cumin, salt, and pepper. • Heat olive oil in a skillet over medium heat. • Dredge eggplant in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs\n and grated Parmesan cheese. • Heat vegetable oil in a skillet over medium heat. • In a baking dish, layer eggplant slices, marinara sauce, and shredded mozzarella cheese. • Serve fish in taco shells or tortillas with desired toppings.",
+            "page_number": 10
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "• Drizzle with olive oil and season with salt and pepper. Veggie Sushi Rolls \n Ingredients: \n \n • 1 cup cooked sushi rice \n • 1/2 cucumber, julienned \n • 1/2 avocado, sliced \n • 1/4 cup carrot, julienned \n • 2 sheets nori (seaweed) \n • Soy sauce for dipping \n Instructions: \n \n • Lay a sheet of nori on a bamboo sushi mat. Spinach and Feta Stuffed Pita \n Ingredients: \n • 1 whole wheat pita bread \n • 1/2 cup spinach, chopped \n • 1/4 cup feta cheese, crumbled \n \n • 1/4 cup cherry tomatoes, halved \n • 1 tablespoon olive oil \n • Salt and pepper to taste \n Instructions: \n • Cut the pita bread in half to create pockets. • 1/4 cup red onion, finely chopped \n • 2 tablespoons olive oil \n • 1 tablespoon lemon juice \n • Salt and pepper to taste \n Instructions: \n \n • In a bowl, combine the tuna, avocado, tomatoes, and red onion. • Drizzle with olive oil and lemon juice. • Season with salt and pepper, then toss to combine. • In a bowl, combine the spinach, feta cheese, and cherry tomatoes.",
+            "page_number": 11
+        }
+    ]
+}
