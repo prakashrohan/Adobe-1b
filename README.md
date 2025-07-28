@@ -1,6 +1,4 @@
-# 🧠 ADOBE-1B – Intelligent Recipe Document Extractor
-
-This project processes PDF documents containing recipe ideas and extracts structured content using AI-powered embeddings and smart document parsing.
+#  ADOBE-1B 
 
 ---
 
