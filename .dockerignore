@@ -1,1 +1,27 @@
-/venv
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+.env/
+.venv/
+
+# Ignore input/output folders (they are mounted at runtime)
+input/
+output/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore git metadata
+.git/
+.gitignore
+
+# Ignore IDE/editor configs
+.vscode/
+.idea/
+*.swp

@@ -21,4 +21,4 @@ RUN python -m spacy download en_core_web_md
 COPY . .
 
 # Run your pipeline (you can override in docker run)
-CMD ["python", "main.py", "input/input.json", "output/output.json"]
+CMD ["python", "main.py", "/app/input/input.json", "/app/output/output.json"]
