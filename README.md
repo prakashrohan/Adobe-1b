@@ -1,7 +1,7 @@
 
 # 🤖 Persona-Driven Document Intelligence
 
-This project performs intelligent section extraction and summarization from PDF documents based on a given **persona** and **task** — entirely CPU-based and torch-free. It uses spaCy’s GloVe embeddings (300-d) for semantic similarity, keyword scoring, and summarization. Ideal for document intelligence systems constrained by size, performance, or offline requirements.
+This project performs intelligent section extraction and summarization from PDF documents based on a given **persona** and **task** — entirely CPU-based. It uses spaCy’s GloVe embeddings (300-d) for semantic similarity, keyword scoring, and summarization. Ideal for document intelligence systems constrained by size, performance, or offline requirements.
 
 ---
 
