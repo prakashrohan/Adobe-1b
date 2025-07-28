@@ -36,9 +36,7 @@ Example:
 ### Step 2: Build the Docker Image
 
 Open a terminal in the root project directory and run:
-```docker build --platform linux/amd64 -t
-mysolutionname:somerandomidentifier```
-
+```docker build --platform linux/amd64 -t mysolutionname:somerandomidentifier```
 Run the solution using the run command 
-```docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --
-network none mysolutionname:somerandomidentifier```
+```docker run --rm -v $(pwd)/input:/app/input -v $(pwd)/output:/app/output --network none mysolutionname:somerandomidentifier```
+
